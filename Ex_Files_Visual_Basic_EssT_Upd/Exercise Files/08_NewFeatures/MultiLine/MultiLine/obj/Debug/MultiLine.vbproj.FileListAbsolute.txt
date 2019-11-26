@@ -1,0 +1,14 @@
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\bin\Debug\MultiLine.exe.config
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\bin\Debug\MultiLine.exe
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\bin\Debug\MultiLine.pdb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\bin\Debug\MultiLine.xml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\obj\Debug\MainWindow.baml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\obj\Debug\MainWindow.g.vb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\obj\Debug\Application.g.vb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\obj\Debug\MultiLine_MarkupCompile.cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\obj\Debug\MultiLine.g.resources
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\obj\Debug\MultiLine.Resources.resources
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\obj\Debug\MultiLine.vbproj.GenerateResource.Cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\obj\Debug\MultiLine.exe
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\obj\Debug\MultiLine.xml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\MultiLine\MultiLine\obj\Debug\MultiLine.pdb

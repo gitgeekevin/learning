@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\ConsoleFirstApp\ConsoleFirstApp\bin\Debug\ConsoleFirstApp.exe.config
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\ConsoleFirstApp\ConsoleFirstApp\bin\Debug\ConsoleFirstApp.exe
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\ConsoleFirstApp\ConsoleFirstApp\bin\Debug\ConsoleFirstApp.pdb
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\ConsoleFirstApp\ConsoleFirstApp\bin\Debug\ConsoleFirstApp.xml
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\ConsoleFirstApp\ConsoleFirstApp\obj\Debug\ConsoleFirstApp.Resources.resources
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\ConsoleFirstApp\ConsoleFirstApp\obj\Debug\ConsoleFirstApp.vbproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\ConsoleFirstApp\ConsoleFirstApp\obj\Debug\ConsoleFirstApp.exe
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\ConsoleFirstApp\ConsoleFirstApp\obj\Debug\ConsoleFirstApp.xml
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\ConsoleFirstApp\ConsoleFirstApp\obj\Debug\ConsoleFirstApp.pdb

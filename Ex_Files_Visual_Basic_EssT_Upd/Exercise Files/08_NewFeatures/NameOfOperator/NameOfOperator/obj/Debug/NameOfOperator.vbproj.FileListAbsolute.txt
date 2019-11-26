@@ -1,0 +1,15 @@
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\bin\Debug\NameOfOperator.exe.config
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\bin\Debug\NameOfOperator.exe
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\bin\Debug\NameOfOperator.pdb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\bin\Debug\NameOfOperator.xml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\NameOfOperator.vbprojResolveAssemblyReference.cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\MainWindow.baml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\MainWindow.g.vb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\Application.g.vb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\NameOfOperator_MarkupCompile.cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\NameOfOperator.g.resources
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\NameOfOperator.Resources.resources
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\NameOfOperator.vbproj.GenerateResource.Cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\NameOfOperator.exe
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\NameOfOperator.xml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NameOfOperator\NameOfOperator\obj\Debug\NameOfOperator.pdb

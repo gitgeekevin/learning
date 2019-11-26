@@ -1,0 +1,15 @@
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\bin\Debug\ReadOnlyAuto.exe.config
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\bin\Debug\ReadOnlyAuto.exe
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\bin\Debug\ReadOnlyAuto.pdb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\bin\Debug\ReadOnlyAuto.xml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\ReadOnlyAuto.vbprojResolveAssemblyReference.cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\MainWindow.baml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\MainWindow.g.vb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\Application.g.vb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\ReadOnlyAuto_MarkupCompile.cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\ReadOnlyAuto.g.resources
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\ReadOnlyAuto.Resources.resources
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\ReadOnlyAuto.vbproj.GenerateResource.Cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\ReadOnlyAuto.exe
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\ReadOnlyAuto.xml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\ReadOnlyAuto\ReadOnlyAuto\obj\Debug\ReadOnlyAuto.pdb

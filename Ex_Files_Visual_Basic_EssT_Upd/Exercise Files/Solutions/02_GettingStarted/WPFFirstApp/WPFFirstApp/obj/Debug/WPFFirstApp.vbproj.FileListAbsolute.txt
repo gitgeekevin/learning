@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\bin\Debug\WPFFirstApp.exe.config
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\bin\Debug\WPFFirstApp.exe
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\bin\Debug\WPFFirstApp.pdb
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\bin\Debug\WPFFirstApp.xml
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\obj\Debug\MainWindow.g.vb
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\obj\Debug\Application.g.vb
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\obj\Debug\WPFFirstApp_MarkupCompile.cache
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\obj\Debug\WPFFirstApp.g.resources
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\obj\Debug\WPFFirstApp.Resources.resources
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\obj\Debug\WPFFirstApp.vbproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\obj\Debug\WPFFirstApp.exe
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\obj\Debug\WPFFirstApp.xml
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WPFFirstApp\WPFFirstApp\obj\Debug\WPFFirstApp.pdb

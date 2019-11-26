@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WinFormsFirstApp\WinFormsFirstApp\bin\Debug\WinFormsFirstApp.exe.config
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WinFormsFirstApp\WinFormsFirstApp\bin\Debug\WinFormsFirstApp.exe
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WinFormsFirstApp\WinFormsFirstApp\bin\Debug\WinFormsFirstApp.pdb
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WinFormsFirstApp\WinFormsFirstApp\bin\Debug\WinFormsFirstApp.xml
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WinFormsFirstApp\WinFormsFirstApp\obj\Debug\WinFormsFirstApp.Resources.resources
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WinFormsFirstApp\WinFormsFirstApp\obj\Debug\WinFormsFirstApp.vbproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WinFormsFirstApp\WinFormsFirstApp\obj\Debug\WinFormsFirstApp.exe
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WinFormsFirstApp\WinFormsFirstApp\obj\Debug\WinFormsFirstApp.xml
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WinFormsFirstApp\WinFormsFirstApp\obj\Debug\WinFormsFirstApp.pdb
+C:\Users\David\Desktop\Exercise Files\02_GettingStarted\WinFormsFirstApp\WinFormsFirstApp\obj\Debug\WinFormsFirstApp.Form1.resources

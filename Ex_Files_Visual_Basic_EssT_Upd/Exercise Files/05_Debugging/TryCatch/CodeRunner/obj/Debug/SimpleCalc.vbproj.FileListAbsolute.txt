@@ -1,0 +1,48 @@
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\bin\Debug\CodeRunner.exe
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\bin\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\bin\Debug\CodeRunner.xml
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\MainWindow.g.vb
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\Application.g.vb
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\CodeRunner_MarkupCompile.cache
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\CodeRunner.g.resources
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\CodeRunner.Resources.resources
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\SimpleCalc.vbproj.GenerateResource.Cache
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\CodeRunner.xml
+C:\Users\David\Desktop\Exercise Files\04_SyntaxAndFlow\SimpleCalc\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\obj\Debug\CodeRunner.xml
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\bin\Debug\CodeRunner.exe
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\bin\Debug\CodeRunner.pdb
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\bin\Debug\CodeRunner.xml
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\obj\Debug\MainWindow.g.vb
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\obj\Debug\Application.g.vb
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\obj\Debug\CodeRunner_MarkupCompile.cache
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\obj\Debug\CodeRunner.g.resources
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\obj\Debug\CodeRunner.Resources.resources
+C:\Users\David\Desktop\Exercise Files\05_Debugging\RuntimeErrors\CodeRunner\obj\Debug\SimpleCalc.vbproj.GenerateResource.Cache
+C:\Users\David Gassner\Dropbox\LDC\LDC My Courses\VBEssT\Starting Exercise Files\05_Debugging\TryCatch\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Users\David Gassner\Dropbox\LDC\LDC My Courses\VBEssT\Starting Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Users\David Gassner\Dropbox\LDC\LDC My Courses\VBEssT\Starting Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\CodeRunner.xml
+C:\Users\David Gassner\Dropbox\LDC\LDC My Courses\VBEssT\Starting Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\CodeRunner.pdb
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\bin\Debug\CodeRunner.exe.config
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\bin\Debug\CodeRunner.exe
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\bin\Debug\CodeRunner.pdb
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\bin\Debug\CodeRunner.xml
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\SimpleCalc.vbprojAssemblyReference.cache
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\MainWindow.baml
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\MainWindow.g.vb
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\Application.g.vb
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\CodeRunner_MarkupCompile.cache
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\CodeRunner.g.resources
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\CodeRunner.Resources.resources
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\SimpleCalc.vbproj.GenerateResource.cache
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\SimpleCalc.vbproj.CoreCompileInputs.cache
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\CodeRunner.exe
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\CodeRunner.xml
+C:\Learning\Ex_Files_Visual_Basic_EssT_Upd\Exercise Files\05_Debugging\TryCatch\CodeRunner\obj\Debug\CodeRunner.pdb

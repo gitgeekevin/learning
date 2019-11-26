@@ -1,0 +1,14 @@
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\bin\Debug\Interpolation.exe.config
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\bin\Debug\Interpolation.exe
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\bin\Debug\Interpolation.pdb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\bin\Debug\Interpolation.xml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\obj\Debug\MainWindow.baml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\obj\Debug\MainWindow.g.vb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\obj\Debug\Application.g.vb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\obj\Debug\Interpolation_MarkupCompile.cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\obj\Debug\Interpolation.g.resources
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\obj\Debug\Interpolation.Resources.resources
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\obj\Debug\Interpolation.vbproj.GenerateResource.Cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\obj\Debug\Interpolation.exe
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\obj\Debug\Interpolation.xml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\Interpolation\Interpolation\obj\Debug\Interpolation.pdb

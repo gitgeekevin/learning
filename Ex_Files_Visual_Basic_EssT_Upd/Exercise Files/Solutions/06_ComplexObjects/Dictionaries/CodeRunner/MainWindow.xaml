@@ -1,0 +1,32 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Code Runner" Height="350" Width="612.184">
+    <Grid>
+        <Label Content="Enter a value:" HorizontalAlignment="Left" 
+                 Margin="10,10,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="txtInput" Margin="128,14,18,0" TextWrapping="Wrap"
+                 FontSize="18" Height="26" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtOutput" Margin="128,50,18,55" 
+                 ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                 ScrollViewer.VerticalScrollBarVisibility="Auto" 
+                 IsReadOnly="True" FontSize="18"/>
+        <StackPanel Margin="128,271,0,0" Orientation="Horizontal" Height="28" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Button x:Name="btnAdd" Content="Add" 
+        		HorizontalAlignment="Left" 
+        		FontSize="18" Width="80"/>
+            <Button x:Name="btnShow" Content="Show" 
+        		HorizontalAlignment="Left" VerticalAlignment="Top"
+        		FontSize="18" Width="80" />
+            <Button x:Name="btnGet" Content="Get" 
+        		HorizontalAlignment="Left" VerticalAlignment="Bottom"
+        		FontSize="18" Width="80" />
+            <Button x:Name="btnRemove" Content="Remove" 
+        		HorizontalAlignment="Left" VerticalAlignment="Bottom"
+        		FontSize="18" Width="80" />
+            <Button x:Name="btnClear" Content="Clear" 
+            	HorizontalAlignment="Left" VerticalAlignment="Bottom"
+            	FontSize="18" Width="80" />
+        </StackPanel>
+    </Grid>
+</Window>

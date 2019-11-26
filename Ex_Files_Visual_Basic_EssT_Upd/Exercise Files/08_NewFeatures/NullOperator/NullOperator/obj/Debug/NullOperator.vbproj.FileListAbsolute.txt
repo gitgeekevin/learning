@@ -1,0 +1,15 @@
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\bin\Debug\NullOperator.exe.config
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\bin\Debug\NullOperator.exe
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\bin\Debug\NullOperator.pdb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\bin\Debug\NullOperator.xml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\NullOperator.vbprojResolveAssemblyReference.cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\MainWindow.baml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\MainWindow.g.vb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\Application.g.vb
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\NullOperator_MarkupCompile.cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\NullOperator.g.resources
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\NullOperator.Resources.resources
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\NullOperator.vbproj.GenerateResource.Cache
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\NullOperator.exe
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\NullOperator.xml
+C:\Users\dgassner\Desktop\Exercise Files\08_NewFeatures\NullOperator\NullOperator\obj\Debug\NullOperator.pdb
